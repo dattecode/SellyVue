@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root{
+   /* Pink MD palette */
+  --md-primary: #E91E63;           /* pink base */
+  --md-primary-hover: #D81B60;     /* pink-darken-1 */
+  --md-on-primary: #FFFFFF;
+  --md-primary-container: #F8BBD0; /* pink-lighten-3 */
+  --md-on-primary-container: #880E4F; /* pink-darken-4 */
+  --md-accent: #FF4081;            /* pink-accent-2 */
+  --md-accent-strong: #F50057;     /* pink-accent-3 */
+
+  --md-surface: #FFFBFE;
+  --md-surface-variant: #FCE4EC;   /* pink-lighten-5 */
+  --md-on-surface: #1C1B1F;
+  --md-on-surface-variant: #AD1457; /* pink-darken-3 */
+  --md-outline: #C2185B;           /* pink-darken-2 */
+  --md-outline-variant: #F48FB1;   /* pink-lighten-2 */
+  --md-error: #C51162;             /* pink-accent-4 */
+
+  --md-elevation-1: 0px 1px 2px rgba(0,0,0,.3), 0px 1px 3px 1px rgba(0,0,0,.15);
+  --md-elevation-2: 0px 1px 2px rgba(0,0,0,.3), 0px 2px 6px 2px rgba(0,0,0,.15);
+
+  --md-shape-medium: 12px;
+  --md-shape-large: 16px;
+
+  font-family: 'Google Sans', 'Roboto', sans-serif;
+}
